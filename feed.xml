@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hello World</title>
+    <link href="https://phyznik.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://phyznik.github.io/gh-pages" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Daniel Smith</name>
+    </author>
+    <id>https://phyznik.github.io/gh-pages</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Daniel Smith</name>
+        </author>
+        <link href="https://phyznik.github.io/gh-pages/hello-world.html"/>
+        <id>https://phyznik.github.io/gh-pages/hello-world.html</id>
+
+        <updated>2020-08-05T14:55:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a new website posted with Publii, "a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website" and hosted on GitHub Pages.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a new website posted with <a href="https://getpublii.com/" target="_blank" rel="nofollow noopener noreferrer">Publii</a>, "a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website" and hosted on GitHub Pages.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
