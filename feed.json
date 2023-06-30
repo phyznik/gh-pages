@@ -1,27 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hello World",
+    "title": "My Pages",
     "description": "",
-    "home_page_url": "https://phyznik.github.io/gh-pages",
-    "feed_url": "https://phyznik.github.io/gh-pages/feed.json",
+    "home_page_url": "https://phyznik.github.io./gh-pages",
+    "feed_url": "https://phyznik.github.io./gh-pages/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Daniel Smith"
+        "name": "D S"
     },
     "items": [
-        {
-            "id": "https://phyznik.github.io/gh-pages/hello-world.html",
-            "url": "https://phyznik.github.io/gh-pages/hello-world.html",
-            "title": "Hello World",
-            "summary": "This is a new website posted with Publii, \"a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website\" and hosted on GitHub Pages.",
-            "content_html": "<p>This is a new website posted with <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Publii</a>, \"a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website\" and hosted on GitHub Pages.</p>",
-            "author": {
-                "name": "Daniel Smith"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-05T14:55:51-05:00",
-            "date_modified": "2020-08-05T14:55:51-05:00"
-        }
     ]
 }
