@@ -3,10 +3,30 @@
     <title>My Pages</title>
     <link href="https://phyznik.github.io./gh-pages/feed.xml" rel="self" />
     <link href="https://phyznik.github.io./gh-pages" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2023-06-29T23:07:31-05:00</updated>
     <author>
         <name>D S</name>
     </author>
     <id>https://phyznik.github.io./gh-pages</id>
 
+    <entry>
+        <title>This is the post title</title>
+        <author>
+            <name>D S</name>
+        </author>
+        <link href="https://phyznik.github.io./gh-pages/this-is-the-post-title/index.html"/>
+        <id>https://phyznik.github.io./gh-pages/this-is-the-post-title/index.html</id>
+
+        <updated>2023-06-29T23:07:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the body of the post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the body of the post.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://phyznik.github.io./gh-pages/sitemap.xml
+Disallow: /
