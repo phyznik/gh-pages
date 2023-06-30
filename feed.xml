@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>My Pages</title>
-    <link href="https://phyznik.github.io./gh-pages/feed.xml" rel="self" />
-    <link href="https://phyznik.github.io./gh-pages" />
+    <link href="https://pages.joannidi.net/feed.xml" rel="self" />
+    <link href="https://pages.joannidi.net" />
     <updated>2023-06-29T23:07:31-05:00</updated>
     <author>
         <name>D S</name>
     </author>
-    <id>https://phyznik.github.io./gh-pages</id>
+    <id>https://pages.joannidi.net</id>
 
     <entry>
         <title>This is the post title</title>
         <author>
             <name>D S</name>
         </author>
-        <link href="https://phyznik.github.io./gh-pages/this-is-the-post-title/index.html"/>
-        <id>https://phyznik.github.io./gh-pages/this-is-the-post-title/index.html</id>
+        <link href="https://pages.joannidi.net/this-is-the-post-title/index.html"/>
+        <id>https://pages.joannidi.net/this-is-the-post-title/index.html</id>
 
         <updated>2023-06-29T23:07:31-05:00</updated>
             <summary>

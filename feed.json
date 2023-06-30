@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "My Pages",
     "description": "",
-    "home_page_url": "https://phyznik.github.io./gh-pages",
-    "feed_url": "https://phyznik.github.io./gh-pages/feed.json",
+    "home_page_url": "https://pages.joannidi.net",
+    "feed_url": "https://pages.joannidi.net/feed.json",
     "user_comment": "",
-    "icon": "https://phyznik.github.io./gh-pages/media/website/2000px-Flag_of_Canada.svg.png",
+    "icon": "https://pages.joannidi.net/media/website/2000px-Flag_of_Canada.svg.png",
     "author": {
         "name": "D S"
     },
     "items": [
         {
-            "id": "https://phyznik.github.io./gh-pages/this-is-the-post-title/index.html",
-            "url": "https://phyznik.github.io./gh-pages/this-is-the-post-title/index.html",
+            "id": "https://pages.joannidi.net/this-is-the-post-title/index.html",
+            "url": "https://pages.joannidi.net/this-is-the-post-title/index.html",
             "title": "This is the post title",
             "summary": "This is the body of the post.",
             "content_html": "<p>This is the body of the post.</p>",
